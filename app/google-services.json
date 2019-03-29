@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329087768871",
+    "firebase_url": "https://goodnurse-afa15.firebaseio.com",
+    "project_id": "goodnurse-afa15",
+    "storage_bucket": "goodnurse-afa15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329087768871:android:32cfc3422504a150",
+        "android_client_info": {
+          "package_name": "rathakarn.th.co.gkrgroup.goodnurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329087768871-ce96lsijql1vvpdeq48upf7onr4gjgtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rathakarn.th.co.gkrgroup.goodnurse",
+            "certificate_hash": "3bee71f0f9558c693209d4b9de09fbf477e5bd79"
+          }
+        },
+        {
+          "client_id": "329087768871-mnq0ojc7i7qre2lj66nb8a182k1fi29r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0XoYPiiPkhZJFF0ptI6Acbz4KcUuh7nU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329087768871-mnq0ojc7i7qre2lj66nb8a182k1fi29r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
