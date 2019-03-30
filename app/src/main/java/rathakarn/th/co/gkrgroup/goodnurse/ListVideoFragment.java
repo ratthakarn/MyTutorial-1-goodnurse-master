@@ -49,7 +49,7 @@ public class ListVideoFragment extends Fragment {
         recyclerView.setLayoutManager(linearLayoutManager);
 
         FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
-        DatabaseReference databaseReference = firebaseDatabase.getReference().child("VideoMasterUNG");
+        DatabaseReference databaseReference = firebaseDatabase.getReference().child("goodnursevdo");
 
         final int[] timesInts = {0};
         final String tag = "6MarchV1";
